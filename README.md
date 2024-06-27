@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto:
 
-Código para criação de personagens aleatórios com características como altura, nacionalidade, altura sexo e etc;
+Código para criação de personagens aleatórios com características como altura, nacionalidade, altura sexo e etc.
 Tem como objetivo treinar:
 - Logica de Programação;
 - Frameworks;

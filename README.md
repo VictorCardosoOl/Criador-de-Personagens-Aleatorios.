@@ -13,7 +13,7 @@ Código para criação de personagens aleatórios com características como altu
 
 ## Instrução de uso:
 
-- Execute: git clone https://github.com/Victorcardoso-GG23/Criador-de-Personagens-Aleatorios.
+- Execute: git clone https://github.com/VictorCardosoOl/Criador-de-Personagens-Aleatorios..
 - Dê player no código.
 
 Recomendação - Utilizar uma ia para geração da imagem do personagem.
